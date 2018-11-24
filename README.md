@@ -9,4 +9,5 @@ Test Status:
     
 Branches:
 
-    master: Fully passed. Java. Netbeans Project.
+    master: Fully passed. Java. Netbeans Project. Using Simulation.
+    no-memory-limit: Using mathematics way. Higher performance.
